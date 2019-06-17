@@ -1,0 +1,22 @@
+{
+  "name": "image-lazy-loading",
+  "version": "1.0.0",
+  "description": "My lovely Nuxt.js project",
+  "author": "Vu Nguyen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vue-lazyload": "^1.2.6"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^7.1.0"
+  }
+}
